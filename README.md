@@ -1,0 +1,2 @@
+# blogimage
+store blog picture
